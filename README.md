@@ -1,4 +1,3 @@
-# This is a Sample Repository
+# Hello, World!
 
-This repository is for learning purposes. 
-
+This is a simple repository for training and learning purposes.
